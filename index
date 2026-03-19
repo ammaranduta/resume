@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Profesional | Ammar</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* Mencegah scroll ganda */
+            background-color: #f8fafc; /* Warna background saat loading */
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- GANTI LINK SRC DI BAWAH INI DENGAN LINK GOOGLE APPS SCRIPT ANDA -->
+    <iframe src="https://script.google.com/macros/s/AKfycbxSkZFyAJbwBA5w12JJYEM6KdeVr4gcT0FZS6Eo60oHHfIg4Fq6r0hSsf1KM9EL8WPTUw/exec"></iframe>
+</body>
+</html>
